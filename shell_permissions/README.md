@@ -1,5 +1,3 @@
 #!/bin/bash
-This is Betty
-Shell Permissions
-
+su betty
 
